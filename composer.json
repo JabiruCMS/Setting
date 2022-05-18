@@ -1,5 +1,5 @@
 {
-  "name": "idavoll/setting-module",
+  "name": "jabirucms/setting-module",
   "type": "asgard-module",
   "description": "Setting module for AsgardCMS. Handles all the site settings.",
   "keywords": [
@@ -20,7 +20,6 @@
     "source": "https://github.com/AsgardCms/Setting"
   },
   "require": {
-    "php": "^7.1.3",
     "composer/installers": "~1.0",
     "doctrine/dbal": "^2.11"
   },
